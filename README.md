@@ -4,7 +4,7 @@
 
 ~5 years building production backend systems, the last ~2 focused on Generative AI: LLM applications, RAG pipelines, and multi-agent systems. I own systems end-to-end — architecture → backend services → cloud infrastructure → production launch — including a multi-tenant healthcare RAG platform load-tested at **2,000+ concurrent sessions with sub-second latency**.
 
-🌐 [Portfolio](https://manas-rai-portfolio.pages.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/manas-rai-a84179213) · ✉️ rai.manas12@gmail.com
+🌐 [Portfolio](https://manas-rai-portfolio.pages.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/manasrai12) · ✉️ rai.manas12@gmail.com
 
 ## Featured work
 
