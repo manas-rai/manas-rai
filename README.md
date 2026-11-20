@@ -2,7 +2,7 @@
 
 **Software Engineer · GenAI Engineer** — AI Engineer @Flipkart, Bengaluru.
 
-~5 years building production backend systems, the last ~2 focused on Generative AI: LLM applications, RAG pipelines, and multi-agent systems. I own systems end-to-end — architecture → backend services → cloud infrastructure → production launch — including a multi-tenant healthcare RAG platform load-tested at **2,000+ concurrent sessions with sub-second latency**.
+5+ years building production backend systems, the last ~2 focused on Generative AI: LLM applications, RAG pipelines, and multi-agent systems. I own systems end-to-end — architecture → backend services → cloud infrastructure → production launch — including a multi-tenant healthcare RAG platform load-tested at **2,000+ concurrent sessions with sub-second latency**.
 
 🌐 [Portfolio](https://manasrai.is-a.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/manasrai12) · ✉️ rai.manas12@gmail.com
 
